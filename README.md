@@ -23,9 +23,9 @@ For Linux:
 * python3 brosint-ph.py
 
 For Termux:
-* pkg update && upgrade -y
+* pkg update && upgrade
 * pkg install python3 git
 * git clone https://github.com/semiiixyz/brosint-ph.git
 * cd brosint-ph
-* pip install requests bs4 termcolor
+* pip3 install requests bs4 termcolor
 * python3 brosint-ph.py
