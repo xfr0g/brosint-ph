@@ -27,5 +27,5 @@ For Termux:
 * pkg install python3 git
 * git clone https://github.com/semiiixyz/brosint-ph.git
 * cd brosint-ph
-* pip install requests bs4
+* pip install requests bs4 termcolor
 * python3 brosint-ph.py
