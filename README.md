@@ -1,7 +1,7 @@
 ![Screenshot at 2023-10-22 21-43-58](https://github.com/semiiixyz/brosint-ph/assets/125569648/b911ce36-ee8b-4033-ae88-b69fb74e115e)
 
 # BROSINT PH
-BROSINT: Best of Philippines
+BROSINT: Best of Philippines is a simple OSINT tool that automatically searches for the given username's account.
 
 # TOP 10 SOCIAL MEDIA
 * Facebook
