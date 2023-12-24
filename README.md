@@ -17,7 +17,7 @@ BROSINT: Best of Philippines is a simple OSINT tool that automatically searches 
 
 # Usage
 For Linux:
-* git clone https://github.com/semiiixyz/brosint-ph.git
+* git clone https://github.com/xfr0g/brosint-ph.git
 * cd brosint-ph
 * pip3 install requests bs4
 * python3 brosint-ph.py
@@ -25,7 +25,7 @@ For Linux:
 For Termux:
 * pkg update && upgrade
 * pkg install python3 git
-* git clone https://github.com/semiiixyz/brosint-ph.git
+* git clone https://github.com/xfr0g/brosint-ph.git
 * cd brosint-ph
 * pip3 install requests bs4 termcolor
 * python3 brosint-ph.py
